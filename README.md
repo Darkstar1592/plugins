@@ -1,4 +1,4 @@
-# plugins
+# Darkstar1592's plugin repository
 
 All versions are listed in the corresponding folder for each plugin.
 The filenames for each file include all the spigot server versions the jar is compatible with.
